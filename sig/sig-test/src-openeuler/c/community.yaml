@@ -1,0 +1,6 @@
+name: community
+description: "a test community for robots' function"
+branches:
+- name: master
+  type: protected
+type: public
