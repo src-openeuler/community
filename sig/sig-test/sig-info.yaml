@@ -4,7 +4,7 @@ mailing_list:
 meeting_url: 
 mature_level:
 maintainers:
-- gitee_id: wh
+- gitee_id: qiansongwh
   name: wanghao1
   organization: 
   email: 123@163.com
@@ -12,7 +12,7 @@ repositories:
 - repo:
   - src-openeuler/atune
   committers:
-  - gitee_id: whsq
+  - gitee_id: shalldows
     name: wanghao2
     organization: 
     email: 1234@163.com
