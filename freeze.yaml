@@ -2,4 +2,4 @@ release:
 - branch: master
   src-openeuler:
   - wanghao75
-  frozen: true
+  frozen: false
